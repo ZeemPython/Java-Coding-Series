@@ -15,4 +15,8 @@ Social Media:
 2. Twitch: http://www.Twitch.Tv/EvoZims
 3. Discord: https://discord.gg/3VWguwz
 
-
+Downloads: 
+1. JDK - http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+2. Eclipse - https://www.eclipse.org/home/index.php
+3. Sublime Text Editor 3 - https://www.sublimetext.com/3
+4. Notepad++ - https://notepad-plus-plus.org/download/v7.5.html
