@@ -1,4 +1,4 @@
-# Java Coding Series Source Code
+# EvoZims Java Coding Series Source Code
 
 **Youtube channel:** 
 http://www.youtube.com/c/EvoZimsHQ
